@@ -1,16 +1,15 @@
-# emirhanyildirim-cloud.github.io — Showcase V2
+# Emirhan Yıldırım — GitHub Pages portfolio
 
-Static GitHub Pages portfolio. No build step.
+This package deliberately uses the same design system / page rhythm as the Osman Yıldırım V2 portfolio, adapted for a research/founder showcase.
 
 ## Deploy
-Copy the contents of this folder into the root of `emirhanyildirim-cloud.github.io`, commit, and push to `main`. GitHub Pages source: `main / (root)`.
+Copy the **contents** of this folder into `emirhanyildirim-cloud.github.io`, commit to `main`, push, and publish GitHub Pages from `main / (root)`.
 
-## What changed in V2
-- phone removed
-- portrait no longer enlarged beyond source quality
-- prominent interactive 3D-style ecosystem hero
-- full searchable research library from the current CV
-- DOI links where listed in the CV or verified
-- 17 public programme links
-- research / ecosystem / outputs / CV routes
-- explicit status/claim boundaries preserved
+## Pages
+- `/` — showcase
+- `/research/` — foundational research architecture
+- `/outputs/` — searchable 150-record research library
+- `/ecosystem/` — 17 public programme sites
+- `/cv/` — linked CV + PDF
+
+No phone number is exposed on the website.
