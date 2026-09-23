@@ -1,0 +1,1358 @@
+{
+  "public_count": 133,
+  "private_count": 17,
+  "supplied_unique_zenodo_records": 139,
+  "note": "Uploaded search export contained pages 1,2,3,4,5,7,7,8; page 6 was missing. Exact public records used where verified; unmatched CV objects are labeled private/not publicly listed.",
+  "records": [
+    {
+      "id": "peer-1",
+      "title": "Humanization Representational Theory (HuReT): A Falsifiable Geometric-Arithmetic Framework for Cognitive Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.21382709",
+      "zenodoTitle": "Humanization Representational Theory (HuReT): A Falsifiable Geometric–Arithmetic Framework for Co...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "peer-2",
+      "title": "Quality-Aware Markerless Video Assessment of Gait and Axial Impairment in Parkinson's Disease: A Retrospective Clinical Video Study",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "current-1",
+      "title": "From Relational Invariants to Spectral Reconstructibility: A Four-Stage Falsification Study of Neural State Identity Under Perturbation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.21875043",
+      "zenodoTitle": "From Relational Invariants to Spectral Reconstructibility: A Four-Stage Falsification Study of Ne...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "current-2",
+      "title": "FORGE-L: A Permutation-Invariant Hypergraph Rewrite Model for Recursive Geometrogenesis - Embedding Fibonacci substitution in exchangeable local hypergraph dynamics",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.21609625",
+      "zenodoTitle": "FORGE-L: A Permutation-Invariant Hypergraph Rewrite Model for Recursive Geometrogenesis",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.0
+    },
+    {
+      "id": "current-3",
+      "title": "FORGE-YM: Reflection-Positive Gauge Dynamics on Rewriting Hypergraphs and a Falsifiable Continuum Mass-Gap Conjecture - A constructive candidate framework for four-dimensional Yang-Mills theory",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.21612528",
+      "zenodoTitle": "FORGE-YM: reflection-positive gauge dynamics on rewriting hypergraphs and a falsifiable continuum...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "current-4",
+      "title": "Safe Bounded Policy Evolution for Error-Aware Routing in Multimodal Al Systems",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "current-5",
+      "title": "Fixed-First Personalized Rhythmic Auditory Guidance Informed by Participant-Held-Out Action Ablation",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "current-6",
+      "title": "Confidence-Gated Event Coding of Mixture-of-Experts Router States",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "current-7",
+      "title": "Integrity-Gated Adaptive MRI Capsules Preserve Downstream Task Behavior Under Four- and Eightfold Compression",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "books-1",
+      "title": "THE MONOGRAPH of Somatic Information FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17069625",
+      "zenodoTitle": "THE MONOGRAPH of Somatic Information FRAMEWORK",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "books-2",
+      "title": "THE MONOGRAPH of THE HOLISTICITE FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17161955",
+      "zenodoTitle": "THE MONOGRAPH of THE HOLISTICITE FRAMEWORK",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "books-3",
+      "title": "THE MONOGRAPH of The Integrated Semiotic FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17162270",
+      "zenodoTitle": "THE MONOGRAPH of The Integrated Semiotic FRAMEWORK",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "books-4",
+      "title": "THE MONOGRAPH of THE MOVEMENT FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17162420",
+      "zenodoTitle": "THE MONOGRAPH of THE MOVEMENT FRAMEWORK",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "books-5",
+      "title": "THE MONOGRAPH of THE OCCUPATION FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17162176",
+      "zenodoTitle": "THE MONOGRAPH of THE OCCUPATION FRAMEWORK",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "books-6",
+      "title": "THE MONOGRAPH of THE REALITY FRAMEWORK",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17162562",
+      "zenodoTitle": "THE MONOGRAPH of THE REALITY FRAMEWORK",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "books-7",
+      "title": "THE PARTICLE FRAMEWORK MONOGRAPH",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "conferences-1",
+      "title": "Lead Asymmetry and Axial Symptom Response to Deep Brain Stimulation in Parkinson's Disease: A Synthetic Pilot Modeling Study",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "conferences-2",
+      "title": "Video-Based Gait Analysis for Objective Assessment of Motor Severity and Surgical Outcome in Parkinson's Disease",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "conferences-3",
+      "title": "Axial Progression-Informed Modeling of Freezing of Gait and Balance Outcomes Following Deep Brain Stimulation",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "historical-1",
+      "title": "A Dynamical Systems Model of Occupational Engagement: The Principle of Volitional Perturbance",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17055409",
+      "zenodoTitle": "A Dynamical Systems Model of Occupational Engagement: The Principle of Volitional Perturbance",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-2",
+      "title": "A Formalization of Yildirim's Geometry: A Novel Family of Zonotopes and their Application to M-Theory Compactification",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17036121",
+      "zenodoTitle": "A Formalization of Yıldırım's Geometry: A Novel Family of Zonotopes and their Application to M-Th...",
+      "source": "supplied Zenodo export",
+      "matchScore": 94.04761904761905
+    },
+    {
+      "id": "historical-3",
+      "title": "A Geometric Framework for Auditory Perception: The Octavector Model of Neural Sound Encoding",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17049839",
+      "zenodoTitle": "A Geometric Framework for Auditory Perception: The Octavector Model of Neural Sound Encoding",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-4",
+      "title": "A Volumetric Gluon Model: Re-evaluating Dimensionality in Quantum Chromodynamics",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17037567",
+      "zenodoTitle": "A Volumetric Gluon Model: Re-evaluating Dimensionality in Quantum Chromodynamics",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-5",
+      "title": "Beyond the Turing Paradigm: Prometheus and the Architecture of Calculated Life Forms.Zenodo DOI: 10.5281/zenodo.18625555",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.18625555",
+      "zenodoTitle": "Beyond the Turing Paradigm: Prometheus and the Architecture of Calculated Life Forms",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.0
+    },
+    {
+      "id": "historical-6",
+      "title": "Causal Computation on Quintessence Manifolds: A Geometric Framework for Foundational Coding Logic",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17045172",
+      "zenodoTitle": "Causal Computation on Quintessence Manifolds: A Geometric Framework for Foundational Coding Logic",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-7",
+      "title": "Computational Singularity Theory: A Zero-Dimensional Framework for Code, Computation, and Artificial Intelligence",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17041569",
+      "zenodoTitle": "Computational Singularity Theory: A Zero-Dimensional Framework for Code, Computation, and Artific...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-8",
+      "title": "Decimal Coordinate Theory (DCT): Reconceptualizing the Base-10 System as a Multidimensional Phonetic-Geometric Framework",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.18449572",
+      "zenodoTitle": "Decimal Coordinate Theory (DCT): Reconceptualizing the Base-10 System as a Multidimensional Phone...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-9",
+      "title": "Five-Dimensional Orbital Field Theory: A Geometric Reinterpretation of the Standard Model",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17037864",
+      "zenodoTitle": "Five-Dimensional Orbital Field Theory: A Geometric Reinterpretation of the Standard Model",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-10",
+      "title": "General Reality Theory: A Geometric Framework for the Subjective Perception of High-Dimensional Information in Biological Systems",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17050356",
+      "zenodoTitle": "General Reality Theory: A Geometric Framework for the Subjective Perception of High-Dimensional I...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-11",
+      "title": "General Realness Theory: An Eleven-Dimensional Framework for the Objective Representation of Perceived Information",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17046814",
+      "zenodoTitle": "General Realness Theory: An Eleven-Dimensional Framework for the Objective Representation of Perc...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-12",
+      "title": "Geometric-Phonetic Number Theory (GPNT): A Unified Framework for Numerical Consciousness",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.18449602",
+      "zenodoTitle": "Geometric-Phonetic Number Theory (GPNT): A Unified Framework for Numerical Consciousness",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-13",
+      "title": "Geometrodynamics of the Soul: A Theory of Structural lsomorphism in Abrahamic Theology and Physics",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058422",
+      "zenodoTitle": "Geometrodynamics of the Soul: A Theory of Structural Isomorphism in Abrahamic Theology and Physics",
+      "source": "supplied Zenodo export",
+      "matchScore": 98.96907216494846
+    },
+    {
+      "id": "historical-14",
+      "title": "Glomerular Field Theory: A Bidimensional Framework for Olfactory Coding",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17047853",
+      "zenodoTitle": "Glomerular Field Theory: A Bidimensional Framework for Olfactory Coding",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-15",
+      "title": "Graviton Dimensionality Unification (GDU): A Nona-Dimensional Framework for Quantum Gravity",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17039256",
+      "zenodoTitle": "Graviton Dimensionality Unification (GDU): A Nona-Dimensional Framework for Quantum Gravity",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-16",
+      "title": "Hexadimensional Influence Theory: A Unified Framework for Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17045288",
+      "zenodoTitle": "Hexadimensional Influence Theory: A Unified Framework for Computation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-17",
+      "title": "Holographic Computation: A Framework for Two-Dimensional Structural Inputs in Algorithmic Systems",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17044044",
+      "zenodoTitle": "Holographic Computation: A Framework for Two-Dimensional Structural Inputs in Algorithmic Systems",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-18",
+      "title": "Hyper-State Proprioception (HSP): A Five-Dimensional Framework for the Neuronal Encoding of Bodily State",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17048147",
+      "zenodoTitle": "Hyper-State Proprioception (HSP): A Five-Dimensional Framework for the Neuronal Encoding of Bodil...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-19",
+      "title": "Mathematical Language and Grammar (MLG): A Geometrodynamic Unification of Semiotic Systems via The Reality Framework",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058378",
+      "zenodoTitle": "Mathematical Language and Grammar (MLG): A Geometrodynamic Unification of Semiotic Systems via The Reality Framework",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-20",
+      "title": "Mathematical Language and Grammar Theory (MLGT): A Unified Framework for the Foundation of All Languages",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.18449634",
+      "zenodoTitle": "Mathematical Language and Grammar Theory (MLGT): Comprehensive Mathematical Proofs and Theoretical Foundations",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-21",
+      "title": "Octadynamic Resonance Theory: An Eight-Dimensional Re-evaluation of the Standard Model's Fundamental Particles and Interactions. Emirhan Yildirim « Academic & Founder CV 31 Aug 2026 Pa ™ page 12",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17039104",
+      "zenodoTitle": "Octadynamic Resonance Theory: An Eight-Dimensional Re-evaluation of the Standard Model's Fundamental Particles and Interactions",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-22",
+      "title": "Point-Matrix String Theory (PMST): A Preonic Substructure for Quarks from Zero-Dimensional Branes",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "historical-23",
+      "title": "Predictive Adaptation through Occupational History (PATH): A Neuro-Computational Framework for Occupational Science",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17057596",
+      "zenodoTitle": "Predictive Adaptation through Occupational History (PATH): A Neuro-Computational Framework for Occupational Science",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-24",
+      "title": "Prometheus MVP Academic Validation Experiment - Phase 1: Theoretical Foundation Analysis",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "historical-25",
+      "title": "Qualia Strand Theory: A Heptadimensional Framework for Information in Computational Systems",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17045509",
+      "zenodoTitle": "Qualia Strand Theory: A Heptadimensional Framework for Information in Computational Systems",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-26",
+      "title": "Relativity Particles: A Unified Geometrodynamic Framework from Universal Dimensional Curvature",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17039829",
+      "zenodoTitle": "Relativity Particles: A Unified Geometrodynamic Framework from Universal Dimensional Curvature",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-27",
+      "title": "Stochastic Filtration Theory (SFT): A Numerical-Phonetic Paradigm for Decoding Infinite Randomness",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.18448591",
+      "zenodoTitle": "Stochastic Filtration Theory (SFT): A Numerical-Phonetic Paradigm for Decoding Infinite Randomness",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-28",
+      "title": "Syntactic String Theory: A Unidimensional Framework for Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17043941",
+      "zenodoTitle": "Syntactic String Theory: A Unidimensional Framework for Computation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-29",
+      "title": "The Archetypal Selves Framework for Occupational Engagement (ASFOE): An Anthropological and Neuroscientific Re- envisioning of Personhood in Occupational Therapy",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17057713",
+      "zenodoTitle": "The Archetypal Selves Framework for Occupational Engagement (ASFOE): An Anthropological and Neuro...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-30",
+      "title": "The Archetypal Theory of Socio-Occupational Engagement (ATSOE): A Neurosociological Model for Occupational Therapy",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17055475",
+      "zenodoTitle": "The Archetypal Theory of Socio-Occupational Engagement (ATSOE): A Neurosociological Model for Occ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-31",
+      "title": "The Autopoietic Model of Occupation: An Active Inference and Thermodynamic Framework for Occupational Science",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17055057",
+      "zenodoTitle": "The Autopoietic Model of Occupation: An Active Inference and Thermodynamic Framework for Occupati...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-32",
+      "title": "The Brane-Constituent Quark (BCQ) Hypothesis: A D1-Brane Model for Quark Substructure within M-Theory",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17036354",
+      "zenodoTitle": "The Brane-Constituent Quark (BCQ) Hypothesis: A D1-Brane Model for Quark Substructure within M-Th...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-33",
+      "title": "The Cyb-Occupational Systems Theory: A Neuro-Engineering Framework for Human Performance in the 21st Century",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058027",
+      "zenodoTitle": "The Cyb-Occupational Systems Theory: A Neuro-Engineering Framework for Human Performance in the 21st Century",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-34",
+      "title": "The Digitalized of Cosmos: A Geometrodynamic Unification of Physics, Computation, and Consciousness",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17062827",
+      "zenodoTitle": "The Digitalized of Cosmos: A Geometrodynamic Unification of Physics, Computation, and Consciousness",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-35",
+      "title": "The Dimensionality Postulate: A Ten-Dimensional Framework for Universal Knowledge Representation and Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17046585",
+      "zenodoTitle": "The Dimensionality Postulate: A Ten-Dimensional Framework for Universal Knowledge Representation ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-36",
+      "title": "The Ennead-Vector Framework for Interoceptive Modulation of Neuronal Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17049915",
+      "zenodoTitle": "The Ennead-Vector Framework for Interoceptive Modulation of Neuronal Computation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-37",
+      "title": "The Enneastructural Model of Occupational Engagement (EMOE): A Neuro-Phenomenological Framework for Occupational Therapy",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17057917",
+      "zenodoTitle": "The Enneastructural Model of Occupational Engagement (EMOE): A Neuro-Phenomenological Framework f...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-38",
+      "title": "The General Occupation Theory: An Eleven-Dimensional Framework for Non-Individual Agents",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058105",
+      "zenodoTitle": "The General Occupation Theory: An Eleven-Dimensional Framework for Non-Individual Agents",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-39",
+      "title": "The Geometric Theory of Neuronal Processing: A Tensorial Framework for Magnetoceptive Integration",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17049192",
+      "zenodoTitle": "The Geometric Theory of Neuronal Processing: A Tensorial Framework for Magnetoceptive Integration",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-40",
+      "title": "The Geometrodynamic Origin of Particles: A Black Hole-Brane Unification Model",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17039475",
+      "zenodoTitle": "The Geometrodynamic Origin of Particles: A Black Hole-Brane Unification Model",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-41",
+      "title": "The Heptadic Framework for Neuro-computational Occupational Dynamics (H-NOD): A Synthesis of Occupational Science and Complex Systems Theory",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17057813",
+      "zenodoTitle": "The Heptadic Framework for Neuro-computational Occupational Dynamics (H-NOD): A Synthesis of Occu...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-42",
+      "title": "The Holisticite Framework: A Geometric Architecture for Embodied Intelligence and Neuro-computational Systems",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17050381",
+      "zenodoTitle": "The Holisticite Framework: A Geometric Architecture for Embodied Intelligence and Neuro-computati...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-43",
+      "title": "The Holo-Manifold Theory of Vision: A Seven-Dimensional Framework for Neural Processing",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17049740",
+      "zenodoTitle": "The Holo-Manifold Theory of Vision: A Seven-Dimensional Framework for Neural Processing",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-44",
+      "title": "The Hyper-Lepton Framework: A Geometric Origin for Fermion Generations",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17037675",
+      "zenodoTitle": "The Hyper-Lepton Framework: A Geometric Origin for Fermion Generations",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-45",
+      "title": "The Integrated Semiotic Framework (ISF): A Geometric Synthesis of Objective Reality and Subjective Experience for Embodied Artificial Intelligence",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17050397",
+      "zenodoTitle": "The Integrated Semiotic Framework (ISF): A Geometric Synthesis of Objective Reality and Subjectiv...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-46",
+      "title": "The Intersubjective Contemplative Experiment (ICE): A Neuro-Phenomenological Framework for Investigating Shared Experience via Pure Intentionality",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17036207",
+      "zenodoTitle": "The Intersubjective Contemplative Experiment (ICE): A Neuro-Phenomenological Framework for Invest...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-47",
+      "title": "The Intrinsic Dimensionality Framework: A Six-Dimensional Re-interpretation of Bosons in the Standard Model",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17038036",
+      "zenodoTitle": "The Intrinsic Dimensionality Framework: A Six-Dimensional Re-interpretation of Bosons in the Stan...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-48",
+      "title": "The Movement Framework (TMF): A Geometrodynamic Unification of Occupation and Emergence",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058258",
+      "zenodoTitle": "The Movement Framework (TMF): A Geometrodynamic Unification of Occupation and Emergence",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-49",
+      "title": "The Nociceptive Singularity: A Theory of Pain as an Information-Driven Phase Transition in a Critical System",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17047555",
+      "zenodoTitle": "The Nociceptive Singularity: A Theory of Pain as an Information-Driven Phase Transition in a Crit...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-50",
+      "title": "The Nona-Dimensional State Formalism: A New Foundation for Computational State Representation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17046321",
+      "zenodoTitle": "The Nona-Dimensional State Formalism: A New Foundation for Computational State Representation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-51",
+      "title": "The Occupation Framework (TOF): A Unified Geometric Model for the Analysis of Human and Systematic Efficiency",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058202",
+      "zenodoTitle": "The Occupation Framework (TOF): A Unified Geometric Model for the Analysis of Human and Systematic Efficiency",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-52",
+      "title": "The Octave-State Formalism: A State-Space Representation of Computational Loops",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17045972",
+      "zenodoTitle": "The Octave-State Formalism: A State-Space Representation of Computational Loops",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-53",
+      "title": "The Particle Framework (TPF): A Geometrodynamic Approach to Emergent Matter and its Implications for Materials Engineering",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17041028",
+      "zenodoTitle": "The Particle Framework (TPF): A Geometrodynamic Approach to Emergent Matter and its Implications ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-54",
+      "title": "The Reality Framework: A Geometrodynamic Model of the Constituted Perception-Action Loop",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058346",
+      "zenodoTitle": "The Reality Framework: A Geometrodynamic Model of the Constituted Perception-Action Loop",
+      "source": "verified via Zenodo reference metadata",
+      "matchScore": null
+    },
+    {
+      "id": "historical-55",
+      "title": "The Reality Law: A Geometrodynamic Model of the Perception-Action Loop",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17058325",
+      "zenodoTitle": "The Reality Law: A Geometrodynamic Model of the Perception-Action Loop",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-56",
+      "title": "The Recursive Universe: A Geometrodynamic Framework for a Theory of Everything",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17063034",
+      "zenodoTitle": "The Recursive Universe: A Geometrodynamic Framework for a Theory of Everything",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-57",
+      "title": "The Somatic Information Framework: A Geometric Realization of Sensorimotor Contingencies on the General Reality Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17047486",
+      "zenodoTitle": "The Somatic Information Framework: A Geometric Realization of Sensorimotor Contingencies on the G...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-58",
+      "title": "The Spatiotemporal Information Framework (STIF): A Relativistic Model of Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17044982",
+      "zenodoTitle": "The Spatiotemporal Information Framework (STIF): A Relativistic Model of Computation",
+      "source": "verified public Zenodo record",
+      "matchScore": null
+    },
+    {
+      "id": "historical-59",
+      "title": "The Spatiotemporal Tensor Model of Gustatory Perception",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17047916",
+      "zenodoTitle": "The Spatiotemporal Tensor Model of Gustatory Perception",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-60",
+      "title": "The Theory of Intrinsic Gauge Dimensionality",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17038277",
+      "zenodoTitle": "The Theory of Intrinsic Gauge Dimensionality",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-61",
+      "title": "The Theory of Relational Occupation Dynamics (ROD): A Neurobiological Field Model of Dyadic Engagement",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17055230",
+      "zenodoTitle": "The Theory of Relational Occupation Dynamics (ROD): A Neurobiological Field Model of Dyadic Engag...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-62",
+      "title": "The Theory of Semiotic Occupation (TSO): A Neuro-Linguistic Framework for Zero-Individual Occupations",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17050774",
+      "zenodoTitle": "The Theory of Semiotic Occupation (TSO): A Neuro-Linguistic Framework for Zero-Individual Occupat...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "historical-63",
+      "title": "The Thermostate Manifold: A Ten-Dimensional State-Space Model of Neuronal Thermoreception",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17049987",
+      "zenodoTitle": "The Thermostate Manifold: A Ten-Dimensional State-Space Model of Neuronal Thermoreception",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-64",
+      "title": "The Triadic Occupational Nexus (TONe) Theory: A Complex Systems Approach to Neuro-Occupation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17055295",
+      "zenodoTitle": "The Triadic Occupational Nexus (TONe) Theory: A Complex Systems Approach to Neuro-Occupation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-65",
+      "title": "The Volumetric Lambda Calculus: A Holographic Formalism for State-Space Computation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17044323",
+      "zenodoTitle": "The Volumetric Lambda Calculus: A Holographic Formalism for State-Space Computation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-66",
+      "title": "Unidimensional Tactile Field Theory: A Dimensionality Reduction Model of Somatosensation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17047680",
+      "zenodoTitle": "Unidimensional Tactile Field Theory: A Dimensionality Reduction Model of Somatosensation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "historical-67",
+      "title": "Vestibular Spacetime Tensor (VST) Theory: A Geometric Framework for Neural Computation and Motor Control",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17048006",
+      "zenodoTitle": "Vestibular Spacetime Tensor (VST) Theory: A Geometric Framework for Neural Computation and Motor ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-1",
+      "title": "A System and Method for the Geometrodynamic Inference and Modulation of Cognitive States",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443559",
+      "zenodoTitle": "A System and Method for the Geometrodynamic Inference and Modulation of Cognitive States",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-2",
+      "title": "A System and Method for Geometric State Inference and Somatic Feedback",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341452",
+      "zenodoTitle": "A System and Method for Geometric State Inference and Somatic Feedback",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-3",
+      "title": "An Apparatus and Method for Geometrodynamic Neurohaptic Feedback via a General Reality Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443738",
+      "zenodoTitle": "An Apparatus and Method for Geometrodynamic Neurohaptic Feedback via a General Reality Manifold",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-4",
+      "title": "Geosemantic Neurohaptic Interface for Brain-Computer Interaction",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-5",
+      "title": "System and Method for Geometric Inference of Neurophenomenological States and Somatic Feedback",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17183084",
+      "zenodoTitle": "System and Method for Geometric Inference of Neurophenomenological States and Somatic Feedback",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-6",
+      "title": "System and Method for Geometrodynamic Neuro-State Mapping via a Mobile Peripheral Device",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317803",
+      "zenodoTitle": "System and Method for Geometrodynamic Neuro-State Mapping via a Mobile Peripheral Device",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-7",
+      "title": "System and Method for Geometrodynamic Inference of Neurophenomenal States via Manifold Resonance Tomography",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317912",
+      "zenodoTitle": "System and Method for Geometrodynamic Inference of Neurophenomenal States via Manifold Resonance ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-8",
+      "title": "A System and Method for Large-Scale Geometric Analysis of Aggregated Neurophenomenological Data.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341300",
+      "zenodoTitle": "A System and Method for Large-Scale Geometric Analysis of Aggregated Neurophenomenological Data",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-9",
+      "title": "A Geometrodynamic System and Method for Spatiotemporal Analysis and Manipulation via a Recursive Manifold Architecture",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443552",
+      "zenodoTitle": "A Geometrodynamic System and Method for Spatiotemporal Analysis and Manipulation via a Recursive ...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-10",
+      "title": "A System and Method for Geometrodynamic Reality Modeling and Interaction on a Recursive Fractal Manifold A System and Method for Geometrodynamic Reality Modeling and Interaction on a Recursive Fractal Manifold. @ Creators:",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341413",
+      "zenodoTitle": "A System and Method for Geometrodynamic Reality Modeling and Interaction on a Recursive Fractal M...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-11",
+      "title": "A System and Method for Collaborative Geometrodynamic Visualization and Interaction in a High-Dimensional Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443787",
+      "zenodoTitle": "A System and Method for Collaborative Geometrodynamic Visualization and Interaction in a High-Dim...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-12",
+      "title": "A System and Method for Active Geodesic Probing of a Spatiotemporal Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443513",
+      "zenodoTitle": "A System and Method for Active Geodesic Probing of a Spatiotemporal Manifold",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-13",
+      "title": "GEO-SEMANTIC INTERFACE: A System and Method for Navigating and Visualizing High-Dimensional Geometrodynamic Data",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17183054",
+      "zenodoTitle": "GEO-SEMANTIC INTERFACE: A System and Method for Navigating and Visualizing High-Dimensional Geome...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-14",
+      "title": "A System and Method for Interactive Geodesic Navigation and Collaborative Analysis of High-Dimensional Manifold Data",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317892",
+      "zenodoTitle": "A System and Method for Interactive Geodesic Navigation and Collaborative Analysis of High-Dimens...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-15",
+      "title": "GEOMETRODYNAMIC MANIFOLD SCANNING SYSTEM AND METHOD.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341261",
+      "zenodoTitle": "GEOMETRODYNAMIC MANIFOLD SCANNING SYSTEM AND METHOD",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-16",
+      "title": "System and Method for Geometrodynamic State Control via a Recursive Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443534",
+      "zenodoTitle": "System and Method for Geometrodynamic State Control via a Recursive Manifold",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-17",
+      "title": "A System and Method for Geometrodynamic State-Space Analysis and Visualization on a Mobile Computational Device",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443637",
+      "zenodoTitle": "A System and Method for Geometrodynamic State-Space Analysis and Visualization on a Mobile Comput...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-18",
+      "title": "APPARATUS AND METHOD FOR GEOMETRODYNAMIC MATERIAL STATE ANALYSIS VIA A MOBILE SENSING MODULE",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443379",
+      "zenodoTitle": "APPARATUS AND METHOD FOR GEOMETRODYNAMIC MATERIAL STATE ANALYSIS VIA A MOBILE SENSING MODULE",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-19",
+      "title": "System and Method for Geometrodynamic Control of Material States via a Somatic Mixed-Reality Interface",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443782",
+      "zenodoTitle": "System and Method for Geometrodynamic Control of Material States via a Somatic Mixed-Reality Inte...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-20",
+      "title": "System and Method for Geometrodynamic State-Mapping via Macro-Scale Manifold Curvature Determination",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443865",
+      "zenodoTitle": "System and Method for Geometrodynamic State-Mapping via Macro-Scale Manifold Curvature Determination",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-21",
+      "title": "System and Method for Geometrodynamic Manifold Tomography via a Portable Apparatus",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17183012",
+      "zenodoTitle": "System and Method for Geometrodynamic Manifold Tomography via a Portable Apparatus",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-22",
+      "title": "A System and Method for Geometrodynamic Material Analysis and Manipulation in a Mixed Reality Environment",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317874",
+      "zenodoTitle": "A System and Method for Geometrodynamic Material Analysis and Manipulation in a Mixed Reality Env...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-23",
+      "title": "System and Method for Geometrodynamic State-Mapping of Macroscopic Assets via a Satellite-Anchored Distributed Sensor Network.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17318273",
+      "zenodoTitle": "System and Method for Geometrodynamic State-Mapping of Macroscopic Assets via a Satellite-Anchore...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-24",
+      "title": "A System and Method for Geometrodynamic State Analysis of Organic Matter",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-25",
+      "title": "System and Method for Geometrodynamic Analysis of Materials via Portable Spectroscopy",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443687",
+      "zenodoTitle": "System and Method for Geometrodynamic Analysis of Materials via Portable Spectroscopy",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-26",
+      "title": "System and Method for Geometrodynamic Mapping of Metabolic States using Accelerated Magnetic Resonance Spectroscopic Imaging",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443761",
+      "zenodoTitle": "System and Method for Geometrodynamic Mapping of Metabolic States using Accelerated Magnetic Reso...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-27",
+      "title": "A System and Method for Geometrodynamic Modeling and Prediction in Agricultural Systems",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443478",
+      "zenodoTitle": "A System and Method for Geometrodynamic Modeling and Prediction in Agricultural Systems",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-28",
+      "title": "AuraScan: A System and Method for In-Situ Geometrodynamic and Spectroscopic Analysis of Foodstuffs via a Mobile Platform",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17182815",
+      "zenodoTitle": "Patent Application for an Invention Entitled: AuraScan",
+      "source": "verified public Zenodo record / title variant",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-29",
+      "title": "System and Method for Geometrodynamic State-Space Analysis of an Analyte",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317743",
+      "zenodoTitle": "System and Method for Geometrodynamic State-Space Analysis of an Analyte",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-30",
+      "title": "System and Method for Geometrodynamic Mapping of a Metabolic State-Space Manifold via Magnetic Resonance Spectroscopy",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317843",
+      "zenodoTitle": "System and Method for Geometrodynamic Mapping of a Metabolic State-Space Manifold via Magnetic Re...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-31",
+      "title": "A System and Method for Geometrodynamic Analysis of Agricultural Systems and Supply Chain Optimization via a Unified Multi-Dimensional Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317946",
+      "zenodoTitle": "A System and Method for Geometrodynamic Analysis of Agricultural Systems and Supply Chain Optimiz...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-32",
+      "title": "A System and Method for Geometrodynamic State-Mapping of Physical Matter via Fractal Resonant Analysis and Classification Technology (FRACTech).",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341350",
+      "zenodoTitle": "A System and Method for Geometrodynamic State-Mapping of Physical Matter via Fractal Resonant Ana...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-33",
+      "title": "A Geometrodynamic System and Method for Mapping and Modulating Cognitive Trajectories on a High-Dimensional Manifold",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-34",
+      "title": "A System and Method for Geometrodynamic Modeling and Navigation of a Creative State-Space",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341332",
+      "zenodoTitle": "A System and Method for Geometrodynamic Modeling and Navigation of a Creative State-Space",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-35",
+      "title": "A System and Method for Geometrodynamic State-Mapping via a Multi-Modal Physiological Sensor Apparatus",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443327",
+      "zenodoTitle": "A System and Method for Geometrodynamic State-Mapping via a Multi-Modal Physiological Sensor Appa...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-36",
+      "title": "System and Method for Geometrodynamic Navigation of Abstract Creative Manifolds in a Mixed Reality Environment",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443965",
+      "zenodoTitle": "System and Method for Geometrodynamic Navigation of Abstract Creative Manifolds in a Mixed Realit...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-37",
+      "title": "System and Method for Geometrodynamic Routing in a Fractal Low Earth Orbit Satellite Constellation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443467",
+      "zenodoTitle": "System and Method for Geometrodynamic Routing in a Fractal Low Earth Orbit Satellite Constellation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-38",
+      "title": "System and Method for Geometrodynamic Modeling and Visualization of a User's Cognitive-Creative State",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17177550",
+      "zenodoTitle": "System and Method for Geometrodynamic Modeling and Visualization of a User's Cognitive-Creative S...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-39",
+      "title": "A System and Method for Geodesic Neuro-Cognitive Mapping in an Immersive Mixed Reality Environment",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317821",
+      "zenodoTitle": "A System and Method for Geodesic Neuro-Cognitive Mapping in an Immersive Mixed Reality Environment",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-40",
+      "title": "A Geometrodynamic Satellite Network for High-Fidelity Symbiotic Data Streams",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317930",
+      "zenodoTitle": "A Geometrodynamic Satellite Network for High-Fidelity Symbiotic Data Streams",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-41",
+      "title": "System and Method for Geometrodynamic State-Mapping via a Multi-Modal Physiological Sensor Apparatus.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17183196",
+      "zenodoTitle": "System and Method for Geometrodynamic State-Mapping via a Multi-Modal Physiological Sensor Apparatus",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-42",
+      "title": "A System and Method for Geometrodynamic Inference and Geodesic Guidance on a Generative Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443945",
+      "zenodoTitle": "A System and Method for Geometrodynamic Inference and Geodesic Guidance on a Generative Manifold",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-43",
+      "title": "A System and Method for Geometrodynamic State-Mapping and Proactive Haptic Guidance",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-44",
+      "title": "Apparatus and Method for Geometrodynamic State-Space Mapping and Proactive Haptic Guidance",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443725",
+      "zenodoTitle": "Apparatus and Method for Geometrodynamic State-Space Mapping and Proactive Haptic Guidance",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-45",
+      "title": "System and Method for Geodesic Guidance on a Dynamic State-Space Manifold for Human-System Performance Enhancement",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443420",
+      "zenodoTitle": "System and Method for Geodesic Guidance on a Dynamic State-Space Manifold for Human-System Perfor...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-46",
+      "title": "A System and Method for Geometrodynamic Analysis and Optimization of Large-Scale Systems via a Universal State-Space Manifold",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-47",
+      "title": "A System and Method for Geometrodynamic State-Mapping and Haptic Guidance on a High-Dimensional Manifold",
+      "zenodoStatus": "private",
+      "doi": null,
+      "zenodoTitle": null,
+      "source": "No public Zenodo match found in supplied archive / verification pass",
+      "matchScore": null
+    },
+    {
+      "id": "disclosures-48",
+      "title": "A Geometrodynamic Haptic Orthosis for State-Space Navigation and Motor Learning",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317780",
+      "zenodoTitle": "A Geometrodynamic Haptic Orthosis for State-Space Navigation and Motor Learning",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-49",
+      "title": "A System and Method for Geometrodynamic Analysis and Optimization of Large-Scale Systems on a Universal State-Space Manifold.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317995",
+      "zenodoTitle": "A System and Method for Geometrodynamic Analysis and Optimization of Large-Scale Systems on a Uni...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-50",
+      "title": "A System and Method for Geometrodynamic Intent Formalization and Semiotically Grounded Artificial Intelligence",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443908",
+      "zenodoTitle": "A System and Method for Geometrodynamic Intent Formalization and Semiotically Grounded Artificial...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-51",
+      "title": "A Method and System for Geometrodynamic Haptic Guidance Based on User Intent Manifolds",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443623",
+      "zenodoTitle": "A Method and System for Geometrodynamic Haptic Guidance Based on User Intent Manifolds",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-52",
+      "title": "A Geometrodynamic Haptic Interface System and Method for Mapping and Guiding User Intent on a High-Dimensional Manifold",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443336",
+      "zenodoTitle": "A Geometrodynamic Haptic Interface System and Method for Mapping and Guiding User Intent on a Hig...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-53",
+      "title": "Geodesic Haptic Interface for Somatic State Navigation and Control",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443437",
+      "zenodoTitle": "Geodesic Haptic Interface for Somatic State Navigation and Control",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-54",
+      "title": "Geometrodynamic System for Macro-Scale Orbital Analytics and Semiotic Data Generation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443844",
+      "zenodoTitle": "Geometrodynamic System for Macro-Scale Orbital Analytics and Semiotic Data Generation",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-55",
+      "title": "System and Method for Geodesic Haptic Guidance Based on an Inferred Manifold of User Intent",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17182954",
+      "zenodoTitle": "System and Method for Geodesic Haptic Guidance Based on an Inferred Manifold of User Intent",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-56",
+      "title": "A System and Method for Geometrodynamic Anomaly Detection and Resource Allocation via a Distributed, Self-Organizing Sensor Manifold.",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17318255",
+      "zenodoTitle": "A System and Method for Geometrodynamic Anomaly Detection and Resource Allocation via a Distribut...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-57",
+      "title": "System and Method for Geometrodynamic Modulation of a Subject's Phenomenological Manifold for Therapeutic Purposes",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443893",
+      "zenodoTitle": "System and Method for Geometrodynamic Modulation of a Subject's Phenomenological Manifold for The...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-58",
+      "title": "SYSTEM AND METHOD FOR GEOMETRODYNAMIC MODULATION OF A SUBJECT'S NEURAL STATE-SPACE MANIFOLD VIA A MOBILE COMPUTING DEVICE",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17341380",
+      "zenodoTitle": "SYSTEM AND METHOD FOR GEOMETRODYNAMIC MODULATION OF A SUBJECT'S NEURAL STATE-SPACE MANIFOLD VIA A...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-59",
+      "title": "A Biometric Sensing Apparatus for Dynamic Modeling of a Subject's Phenomenological Manifold and a System for Therapeutic Geometric Modulation",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443713",
+      "zenodoTitle": "A Biometric Sensing Apparatus for Dynamic Modeling of a Subject's Phenomenological Manifold and a...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-60",
+      "title": "System and Method for Geometrodynamic Manifold Reconstruction via Magnetic Resonance",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443398",
+      "zenodoTitle": "System and Method for Geometrodynamic Manifold Reconstruction via Magnetic Resonance",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    },
+    {
+      "id": "disclosures-61",
+      "title": "A System and Method for Geometrodynamic Neuromodulation via a Constellation Waveform Emitter Array",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17443584",
+      "zenodoTitle": "A System and Method for Geometrodynamic Neuromodulation via a Constellation Waveform Emitter Arra...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-62",
+      "title": "A System and Method for Geometrodynamic State-Space Reconstruction via a Mobile-Integrated Biosensing Platform",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17182877",
+      "zenodoTitle": "A System and Method for Geometrodynamic State-Space Reconstruction via a Mobile-Integrated Biosen...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-63",
+      "title": "System and Method for Geometrodynamic State-Space Mapping from Multimodal Physiological Time-Series Data",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317766",
+      "zenodoTitle": "System and Method for Geometrodynamic State-Space Mapping from Multimodal Physiological Time-Seri...",
+      "source": "supplied Zenodo export",
+      "matchScore": 99.5
+    },
+    {
+      "id": "disclosures-64",
+      "title": "A System and Method for Geometrodynamic Neuromodulation via a Constellated Emitter Platform",
+      "zenodoStatus": "public",
+      "doi": "10.5281/zenodo.17317965",
+      "zenodoTitle": "A System and Method for Geometrodynamic Neuromodulation via a Constellated Emitter Platform",
+      "source": "supplied Zenodo export",
+      "matchScore": 100.0
+    }
+  ]
+}

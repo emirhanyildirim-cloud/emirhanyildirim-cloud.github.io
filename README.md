@@ -13,3 +13,12 @@ Copy the **contents** of this folder into `emirhanyildirim-cloud.github.io`, com
 - `/cv/` — linked CV + PDF
 
 No phone number is exposed on the website.
+
+## Zenodo / media pass
+- Profile image replaced with the supplied 1254×1254 source image (`assets/media/emirhan-yildirim-hires.jpg`).
+- Linked PDF CV page 1 portrait replaced with the same high-resolution source.
+- 150 research-library objects audited against the supplied Zenodo search export plus exact public-record verification for missing-page matches.
+- 133 objects are linked to public Zenodo DOIs.
+- 17 unmatched objects are explicitly labelled `Private / not publicly listed on Zenodo`.
+- The uploaded Zenodo export contained pages 1, 2, 3, 4, 5, 7, 7, 8 (page 6 was missing), so exact public-record verification was used for several missing-page records rather than falsely marking them private.
+- `assets/zenodo-match-report.json` contains the audit trail.
