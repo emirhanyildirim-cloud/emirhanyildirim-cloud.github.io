@@ -1,22 +1,16 @@
-# Emirhan Yıldırım — GitHub Pages Showcase
+# emirhanyildirim-cloud.github.io — Showcase V2
 
-Repository-ready personal portfolio for **https://emirhanyildirim-cloud.github.io/**.
+Static GitHub Pages portfolio. No build step.
 
 ## Deploy
-1. Create or use a public repository named **`emirhanyildirim-cloud.github.io`** under `https://github.com/emirhanyildirim-cloud`.
-2. Upload the **contents of this folder to the repository root** (not the containing folder itself).
-3. In GitHub: **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)`**.
-4. The site will publish at **https://emirhanyildirim-cloud.github.io/**.
+Copy the contents of this folder into the root of `emirhanyildirim-cloud.github.io`, commit, and push to `main`. GitHub Pages source: `main / (root)`.
 
-No npm, Node, Python or build step is required. The interactive 3D ecosystem map is plain Canvas JavaScript.
-
-## Structure
-- `index.html` — showcase home + interactive 3D ecosystem map
-- `research/` — four foundational research programmes
-- `ventures/` — ten downstream programmes
-- `outputs/` — research software, papers, recognition, skills and creative practice
-- `cv/` — embedded linked CV
-- `assets/` — local CSS, JS, portrait, social card, CV and QR assets
-
-## Separate GitHub profile README
-The file `PROFILE_README.md` is intended for a second repository named exactly **`emirhanyildirim-cloud`** if you want the GitHub profile landing page itself to point visitors into this portfolio.
+## What changed in V2
+- phone removed
+- portrait no longer enlarged beyond source quality
+- prominent interactive 3D-style ecosystem hero
+- full searchable research library from the current CV
+- DOI links where listed in the CV or verified
+- 17 public programme links
+- research / ecosystem / outputs / CV routes
+- explicit status/claim boundaries preserved
