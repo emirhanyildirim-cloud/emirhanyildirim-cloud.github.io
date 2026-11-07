@@ -1,15 +1,15 @@
 # Emirhan Yıldırım — GitHub Pages portfolio
 
-This package deliberately uses the same design system / page rhythm as the Osman Yıldırım V2 portfolio, adapted for a research/founder showcase.
+This repository contains the public research and systems portfolio of Emirhan Yıldırım, founder and research architect of Invariant Computing Lab. The site describes the Lab's programmes, associated ventures, selected research outputs and the author's academic trajectory.
 
 ## Deploy
 Copy the **contents** of this folder into `emirhanyildirim-cloud.github.io`, commit to `main`, push, and publish GitHub Pages from `main / (root)`.
 
 ## Pages
 - `/` — showcase
-- `/research/` — foundational research architecture
+- `/research/` — Invariant Computing Lab research programmes and evidence boundaries
 - `/outputs/` — searchable 150-record research library
-- `/ecosystem/` — 17 public programme sites
+- `/ecosystem/` — Invariant Computing Lab and associated programme/venture directory
 - `/cv/` — linked CV + PDF
 
 No phone number is exposed on the website.
@@ -19,6 +19,6 @@ No phone number is exposed on the website.
 - Linked PDF CV page 1 portrait replaced with the same high-resolution source.
 - 150 research-library objects audited against the supplied Zenodo search export plus exact public-record verification for missing-page matches.
 - 133 objects are linked to public Zenodo DOIs.
-- 17 unmatched objects are explicitly labelled `Private / not publicly listed on Zenodo`.
-- The uploaded Zenodo export contained pages 1, 2, 3, 4, 5, 7, 7, 8 (page 6 was missing), so exact public-record verification was used for several missing-page records rather than falsely marking them private.
+- 17 records lacked a confirmed public DOI match at the 6 November 2026 audit. A missing match does not establish that the item is private or unpublished.
+- The source export used for the 6 November 2026 audit was incomplete; identifier matching requires periodic reconciliation with the live Zenodo account. The catalogue is an index, not proof of peer review, patent grant or experimental validation.
 - `assets/zenodo-match-report.json` contains the audit trail.
