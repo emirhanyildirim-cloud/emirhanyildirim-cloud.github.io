@@ -26,3 +26,7 @@ No phone number is exposed on the website.
 ## Open research software index
 
 The independent [Invariant Computing Lab repository catalogue](https://github.com/Invariant-Computing-Lab/g80-invariant-release-registry-bounded/blob/public-research-20261027/PUBLIC_RESEARCH_CATALOG.md) groups the Lab's 56 public research repositories without treating repositories as independent papers or claiming an unstated licence.
+
+## Hugging Face research index
+
+[Hugging Face model/dataset/Space catalogue](https://github.com/Invariant-Computing-Lab/g80-invariant-release-registry-bounded/blob/public-research-20261027/PUBLIC_HF_REPOSITORY_INDEX.md) keeps research models and interactive demos separate and documents outstanding rights/metadata checks.
