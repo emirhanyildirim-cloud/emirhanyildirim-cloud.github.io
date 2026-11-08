@@ -22,3 +22,7 @@ No phone number is exposed on the website.
 - 17 records lacked a confirmed public DOI match at the 6 November 2026 audit. A missing match does not establish that the item is private or unpublished.
 - The source export used for the 6 November 2026 audit was incomplete; identifier matching requires periodic reconciliation with the live Zenodo account. The catalogue is an index, not proof of peer review, patent grant or experimental validation.
 - `assets/zenodo-match-report.json` contains the audit trail.
+
+## Open research software index
+
+The independent [Invariant Computing Lab repository catalogue](https://github.com/Invariant-Computing-Lab/g80-invariant-release-registry-bounded/blob/public-research-20261027/PUBLIC_RESEARCH_CATALOG.md) groups the Lab's 56 public research repositories without treating repositories as independent papers or claiming an unstated licence.
